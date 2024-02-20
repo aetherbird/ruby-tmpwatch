@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 # Cross-platform Ruby-based tmpwatch
-# Written by Toby Walker
+# Written by Toby
 
 # SCRIPT VARIABLES LISTED BELOW
 
